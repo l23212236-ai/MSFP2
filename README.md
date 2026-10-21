@@ -46,7 +46,7 @@ Palabras clave: Modelo Windkessel; Sistema cardiovascular; Presión arterial; Fl
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB [.mlx y .pdf].
-2. Análisis matemático Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
+2. Análisis matemático: función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
 3. Diagrama biológico desarrollado en BioRender.
 4. Modelo de Simulink [ .slx].
 5. Código fuente desarrollado en Python [ .py].
